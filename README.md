@@ -6,7 +6,7 @@
 </p>
 
 I love working on compilers, mostly [p4c](https://github.com/p4lang/p4c), and I'm a member of [p4lang](https://github.com/p4lang) and [volcano-sh(CNCF)](https://github.com/volcano-sh). <br>
-[70+ pull requests merged](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aaeron-gh+repo%3Ap4lang%2Fp4c+repo%3Avolcano-sh%2Fkthena+repo%3Avolcano-sh%2Fvolcano+repo%3Athanos-io%2Fthanos+repo%3Ap4lang%2Fopen-p4studio&type=pullrequests) across CNCF and P4 projects.<br>
+[85+ pull requests merged](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aaeron-gh+repo%3Ap4lang%2Fp4c+repo%3Avolcano-sh%2Fkthena+repo%3Avolcano-sh%2Fvolcano+repo%3Athanos-io%2Fthanos+repo%3Ap4lang%2Fopen-p4studio&type=pullrequests) across CNCF and P4 projects.<br>
 Solved 800+ DSA problems, Codeforces and an 🏅ICPC Asia West Regionalist’26..<br><br>
 Now building [Partlore](https://github.com/aeron-playground/Partlore), an offline pinout app for Android.
 
